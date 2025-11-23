@@ -1,3 +1,3 @@
 # python-arcade-minecraft-platformer
 
-Ein Platformer mit Python Arcade programmiert mit Minecraft-Texturen.
+Ein Plattformer in Python Arcade programmiert mit Minecraft-Texturen.
